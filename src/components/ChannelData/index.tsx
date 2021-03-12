@@ -42,7 +42,7 @@ const ChannelData: React.FC = () => {
       </Messages>
 
       <InputWrapper>
-        <Input type="text" placeholder="Conversar chat-livre" />
+        <Input type="text" placeholder="Conversar #chat-livre" />
         <InputIcon />
       </InputWrapper>
     </Container>
